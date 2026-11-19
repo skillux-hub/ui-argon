@@ -57,7 +57,7 @@ Then open the generated `index.html` in a browser or serve the folder with any s
 | `tokens.css` | Locked palette tokens |
 | `assets/starter/` | The complete multi-page starter site (HTML, CSS, JS, fonts, images) |
 
-> Note: this repository contains the skill definition, generator, references, and starter source. Binary media and font files are distributed with the free pack download on Skillux.
+> Note: this repository contains the skill definition, generator, references, and starter source. Binary media and font files are included in this repository — the repo is the complete free pack.
 
 ## Adapting it
 
@@ -68,3 +68,4 @@ Read `references/design-spec.md` and `references/effects.md` before changing com
 - Product page (free): https://skillux.dev/skills/ui-argon
 - Topic: AI design skills for dashboards — https://skillux.dev/ai-design-skills-for-dashboards
 - More AI design skills for Claude Code, Cursor & Codex: https://skillux.dev
+- Featured on Product Hunt: https://www.producthunt.com/products/skillux
