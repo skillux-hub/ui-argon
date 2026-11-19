@@ -1,0 +1,11 @@
+/* Argon locked palette */
+:root {
+  --primary: #5e72e4;
+  --info: #11cdef;
+  --success: #2dce89;
+  --warning: #fb6340;
+  --danger: #f5365c;
+  --dark: #212529;
+  --white: #ffffff;
+  --body: "Open Sans", sans-serif;
+}
