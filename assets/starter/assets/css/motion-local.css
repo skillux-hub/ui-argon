@@ -1,0 +1,22 @@
+/* Argon motion modes */
+html[data-motion="off"] .carousel-item {
+  transition: none !important;
+}
+html[data-motion="off"] .animated {
+  animation: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html[data-motion-mode="auto"] .carousel-item {
+    transition: none !important;
+  }
+  html[data-motion-mode="auto"] {
+    scroll-behavior: auto;
+  }
+}
+
+.argon-draft-note {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #5e72e4;
+}
